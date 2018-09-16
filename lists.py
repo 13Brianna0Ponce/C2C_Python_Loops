@@ -1,4 +1,4 @@
 colors = ['red', 'blue', 'green']
-print colors[0]    # red
-print colors[2]    # green
-print len(colors)  # 3
+print colors[0]   
+print colors[2]
+print len(colors) 
